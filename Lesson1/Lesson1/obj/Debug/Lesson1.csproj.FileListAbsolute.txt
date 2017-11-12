@@ -1,0 +1,6 @@
+c:\users\natalia\documents\visual studio 2015\Projects\Lesson1\Lesson1\bin\Debug\Lesson1.exe.config
+c:\users\natalia\documents\visual studio 2015\Projects\Lesson1\Lesson1\bin\Debug\Lesson1.exe
+c:\users\natalia\documents\visual studio 2015\Projects\Lesson1\Lesson1\bin\Debug\Lesson1.pdb
+c:\users\natalia\documents\visual studio 2015\Projects\Lesson1\Lesson1\obj\Debug\Lesson1.csprojResolveAssemblyReference.cache
+c:\users\natalia\documents\visual studio 2015\Projects\Lesson1\Lesson1\obj\Debug\Lesson1.exe
+c:\users\natalia\documents\visual studio 2015\Projects\Lesson1\Lesson1\obj\Debug\Lesson1.pdb
