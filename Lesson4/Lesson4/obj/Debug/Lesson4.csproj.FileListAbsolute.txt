@@ -1,0 +1,5 @@
+c:\users\natalia\documents\visual studio 2015\Projects\Lesson4\Lesson4\bin\Debug\Lesson4.exe.config
+c:\users\natalia\documents\visual studio 2015\Projects\Lesson4\Lesson4\bin\Debug\Lesson4.exe
+c:\users\natalia\documents\visual studio 2015\Projects\Lesson4\Lesson4\bin\Debug\Lesson4.pdb
+c:\users\natalia\documents\visual studio 2015\Projects\Lesson4\Lesson4\obj\Debug\Lesson4.exe
+c:\users\natalia\documents\visual studio 2015\Projects\Lesson4\Lesson4\obj\Debug\Lesson4.pdb
